@@ -166,7 +166,7 @@ If you encounter any issues or have questions, please:
 ## 🔗 Links
 
 - **Repository**: https://github.com/Kishore276/Emotion-based-music-recommender.git
-- **Demo Video**: [Watch on YouTube](https://youtu.be/uDzLxos0lNU)
+<!-- - **Demo Video**: [Watch on YouTube](https://youtu.be/uDzLxos0lNU) -->
 - **Issues**: Report bugs and feature requests
 
 ---
