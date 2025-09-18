@@ -54,7 +54,7 @@ emotion-based-music-recommender/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Kishore276/Emotion-based-music.git
+git clone https://github.com/Kishore276/Emotion-based-music-recommender.git
 cd emotion-based-music
 ```
 
